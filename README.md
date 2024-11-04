@@ -12,9 +12,9 @@ The code aims to determine a binarization threshold that isolates the iris regio
 - Thresholding Limitations: Without further segmentation, surrounding dark areas (eyelashes, shadows) might still be included at this threshold, which is an expected limitation of this approach.
 
 
-### Optimal Threshold: 85 
+#### Optimal Threshold: 85 
 ![1](https://github.com/user-attachments/assets/d353377a-44fa-4212-b5f4-7282c4e5cc51)
 ![3](https://github.com/user-attachments/assets/6a794a18-c6e3-493e-9055-49cf5e92d6f3)
 
 
-### Optimal Threshold for eye frame: 85
+#### Optimal Threshold for eye frame: 85
